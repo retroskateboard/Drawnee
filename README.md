@@ -34,4 +34,20 @@ Let's embark on this creative journey together and take your drawing skills to n
 _"Art enables us to find ourselves and lose ourselves at the same time." - Thomas Merton_
 
 ## Screenshots (Coming Soon)
-<!-- Add screenshots of your app in action here -->
+## App Preview
+<!-- Welcome Screen -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/1.png" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+  Welcome Screen
+</p>
+<!---->
+<!-- Choose object -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/2.png" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+  Object's options 
+</p>
+<!---->
