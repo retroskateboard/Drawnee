@@ -33,21 +33,66 @@ Let's embark on this creative journey together and take your drawing skills to n
 ---
 _"Art enables us to find ourselves and lose ourselves at the same time." - Thomas Merton_
 
-## Screenshots (Coming Soon)
+## Mockup Screens
+
+### Welcome Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/3.jpeg" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+  The Welcome Screen will greet users and introduce them to the app's purpose.
+</p>
+
+### Reference Image Selection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/4.jpeg" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+   The Reference Image Selection screen will allow users to choose a reference image from a collection of images with varying complexities.
+</p>
+
+### Drawing Interface
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/5.jpeg" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+   The Drawing Interface will be the canvas where users create their artwork. It will include a variety of drawing tools, colors, and undo/redo options.
+</p>
+
+### Drawing Progress and Feedback
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/6.jpeg" alt="Welcome Screen" width="600">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/7.jpeg" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+  After completing their drawing, users will receive feedback on their progress, such as the percentage of resemblance to the reference image and tips for improvement.
+</p>
+
+### Retry - Improve Your Artistry!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/9.jpeg" alt="Welcome Screen" width="600">
+  <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/10.jpeg" alt="Welcome Screen" width="600">
+</p>
+<p align="center">
+  Want to outdo your previous masterpiece? Drawnee has your back! We'll display your previous drawing record, empowering you to surpass it and enhance your drawing skills even further.
+</p>
+
+
 ## App Preview
 <!-- Welcome Screen -->
+###  Welcome Screen
 <p align="center">
   <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/1.png" alt="Welcome Screen" width="600">
 </p>
 <p align="center">
-  Welcome Screen
 </p>
-<!---->
-<!-- Choose object -->
+<!--  -->
+
+###  Object's options
 <p align="center">
   <img src="https://raw.githubusercontent.com/retroskateboard/Drawnee/main/images/2.png" alt="Welcome Screen" width="600">
 </p>
 <p align="center">
-  Object's options 
 </p>
 <!---->
