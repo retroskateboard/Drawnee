@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UISupportedExternalAccessoryProtocols</key>
+	<array>
+		<string>com.apple.developer.graphicskit</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Cocogoose Pro Light Italic-trial.ttf</string>
+		<string>Cocogoose Pro Italic-trial.ttf</string>
+		<string>Cocogoose Pro Light-trial.ttf</string>
+		<string>Cocogoose Pro Semilight Italic-trial.ttf</string>
+		<string>Cocogoose Pro Semilight-trial.ttf</string>
+		<string>Cocogoose Pro Thin Italic-trial.ttf</string>
+		<string>Cocogoose Pro Thin-trial.ttf</string>
+		<string>Cocogoose Pro UltraLight Italic-trial.ttf</string>
+		<string>Cocogoose Pro Ultralight-trial.ttf</string>
+		<string>Cocogoose Pro-trial.ttf</string>
+	</array>
+</dict>
+</plist>
