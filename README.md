@@ -1,4 +1,4 @@
-# Drawnee - Boost Your Drawing Skills 🎨
+# Drawnee - Boost Your Drawing Skills 🎨 (In progress)
 
 [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS-blue.svg)](https://www.apple.com/ios/)
@@ -26,15 +26,12 @@ Drawnee is a powerful drawing tool designed to help you improve your artistry by
 Drawnee is an ongoing project developed as part of my submission for the Apple WWDC23 Swift Student Challenge. I'm dedicated to refining the app's functionality and user experience continuously. Expect regular updates and feature additions in the future!
 
 ## Get Involved
-Your valuable feedback and contributions are always welcome! Whether it's reporting a bug, suggesting new features, or collaborating on development, your participation is highly appreciated. Feel free to submit pull requests or contact me via email at [your.email@example.com](mailto:your.email@example.com).
+Your valuable feedback and contributions are always welcome! Whether it's reporting a bug, suggesting new features, or collaborating on development, your participation is highly appreciated. Feel free to submit pull requests or contact me via Instagram: @retroskateboard (link in my bio)
 
 Let's embark on this creative journey together and take your drawing skills to new heights! 🎉🎨
 
-## Screenshots (Coming Soon)
-<!-- Add screenshots of your app in action here -->
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 _"Art enables us to find ourselves and lose ourselves at the same time." - Thomas Merton_
+
+## Screenshots (Coming Soon)
+<!-- Add screenshots of your app in action here -->
