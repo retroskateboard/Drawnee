@@ -26,7 +26,7 @@ Drawnee is a powerful drawing tool designed to help you improve your artistry by
 Drawnee is an ongoing project developed as part of my submission for the Apple WWDC23 Swift Student Challenge. I'm dedicated to refining the app's functionality and user experience continuously. Expect regular updates and feature additions in the future!
 
 ## Get Involved
-Your valuable feedback and contributions are always welcome! Whether it's reporting a bug, suggesting new features, or collaborating on development, your participation is highly appreciated. Feel free to submit pull requests or contact me via Instagram: @retroskateboard (link in my bio)
+Your valuable feedback and contributions are always welcome! Whether it's reporting a bug, suggesting new features, or collaborating on development, your participation is highly appreciated. Feel free to submit pull requests or contact me via - [ericrokerz@gmail.com](mailto:ericrokerz@gmail.com) -
 
 Let's embark on this creative journey together and take your drawing skills to new heights! 🎉🎨
 
